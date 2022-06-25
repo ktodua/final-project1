@@ -14,7 +14,7 @@
   box-sizing: border-box;
  }
 
-:root {
+/* :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -43,7 +43,7 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Poppins", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
+} */
 
 *,
 *::before,
